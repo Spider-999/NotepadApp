@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/notepadIcon.ico</file>
+        <file>images/selectFont.ico</file>
+        <file>images/boldText.ico</file>
+        <file>images/italicText.ico</file>
+        <file>images/underlineText.ico</file>
+        <file>images/copy.ico</file>
+        <file>images/cut.ico</file>
+        <file>images/paste.ico</file>
+        <file>images/redo.ico</file>
+        <file>images/undo.ico</file>
+        <file>images/exitIcon.ico</file>
+        <file>images/newFileIcon.ico</file>
+        <file>images/openIcon.ico</file>
+        <file>images/saveAsIcon.ico</file>
+        <file>images/saveIcon.ico</file>
+    </qresource>
+</RCC>
